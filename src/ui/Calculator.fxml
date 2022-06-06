@@ -30,5 +30,7 @@
       <Label layoutX="45.0" layoutY="240.0" text="Average pi: " />
       <Label layoutX="41.0" layoutY="268.0" text=".Average error:" />
       <Label fx:id="errAvg" layoutX="154.0" layoutY="268.0" />
+      <Line endX="100.0" layoutX="227.0" layoutY="261.0" startX="-100.0" />
+      <Line endX="100.0" layoutX="246.0" layoutY="289.0" startX="-100.0" />
    </children>
 </AnchorPane>
